@@ -1,0 +1,19 @@
+.faq-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    color: #ffffff;
+}
+
+.p-accordion {
+    width: 100rem;
+}
+
+.p-accordion-header-text {
+    color: #134074;
+}
+
+.faq-title {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
